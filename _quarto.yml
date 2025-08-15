@@ -1,13 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "web-gemra"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: ""
 
 format:
   html:
